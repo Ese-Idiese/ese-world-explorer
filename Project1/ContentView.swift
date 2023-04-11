@@ -38,10 +38,7 @@ struct ContentView: View {
                 .font(.title3)
                 .frame(width: 380)
                 .foregroundColor(.primary)
-            
-                
-                
-            
+
         } .navigationTitle("Discover")
         
     }
